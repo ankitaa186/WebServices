@@ -11,6 +11,8 @@ tmp/
 *~.nib
 local.properties
 .loadpath
+.classpath
+.gitignore
 
 # External tool builders
 .externalToolBuilders/
